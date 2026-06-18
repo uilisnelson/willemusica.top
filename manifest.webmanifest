@@ -1,0 +1,15 @@
+{
+  "name": "Will & Música",
+  "short_name": "Will & Música",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F2",
+  "theme_color": "#1D4E5F",
+  "icons": [
+    {
+      "src": "logo-will.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
